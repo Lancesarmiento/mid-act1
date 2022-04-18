@@ -1,0 +1,50 @@
+body {
+    background: linear-gradient(to right, #c4f84c, #4ead6a);
+    font-family: 'Anton', sans-serif;
+    ;
+}
+
+.container {
+    width: 60%;
+    margin: auto;
+    text-align: center;
+}
+
+h1 {
+    margin: 50px;
+    font-size: 4rem;
+}
+
+.rcp {
+    margin: 0px 100px;
+    text-align: center;
+    display: inline-block;
+}
+
+.p1,
+.p2 {
+    font-size: 2rem;
+}
+
+button {
+    margin: 5%;
+    background-color: #393535;
+    padding: 15px 0;
+    width: 150px;
+    letter-spacing: 1px;
+    font-family: 'Press Start 2P', cursive;
+    color: white;
+}
+
+button:hover {
+    background: #c4f84c;
+}
+
+img {
+    width: 300px;
+}
+
+footer {
+    margin: 5%;
+    text-align: center;
+}
